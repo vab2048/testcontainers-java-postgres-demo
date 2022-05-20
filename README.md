@@ -1,2 +1,3 @@
-# testcontainers-java-postgres-demo
-Example of using testcontainers to test a PostgreSQL DB
+# Integration Test Workflow Demo
+
+Simple example of using testcontainers to run an integration test with a postgres DB container.
